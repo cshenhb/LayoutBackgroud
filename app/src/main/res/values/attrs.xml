@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LayoutBackground">
+        <attr name="solidColor" format="color"/>
+        <attr name="defaultColor" format="color"/>
+        <attr name="pressColor" format="color"/>
+        <attr name="conners" format="dimension"/>
+        <attr name="topLeftConner" format="dimension"/>
+        <attr name="topRightConner" format="dimension"/>
+        <attr name="bottomLeftConner" format="dimension"/>
+        <attr name="bottomRightConner" format="dimension"/>
+        <attr name="itemType" format="boolean"/>
+        <attr name="strokeWidth" format="dimension"/>
+        <attr name="strokeColor" format="color"/>
+    </declare-styleable>
+
+</resources>
